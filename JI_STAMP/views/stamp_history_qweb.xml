@@ -1,4 +1,5 @@
 <odoo>
+  <data>
     <template id="stamp_history_table">
         <table class="table table-condensed table-bordered" style="table-layout: fixed; width: 100%;">
             <thead>
@@ -23,4 +24,5 @@
             </tbody>
         </table>
     </template>
+  </data>  
 </odoo> 

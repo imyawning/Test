@@ -1,4 +1,5 @@
 <odoo>
+  <data>
     <template id="asset_master_report_template">
         <t t-call="web.internal_layout">
             <main>
@@ -112,4 +113,5 @@
         <field name="print_report_name">'財產目錄清冊'</field>
         <field name="paperformat_id" ref="ji_accounting_report_tw.paperformat_tbs_landscape"/>
     </record>
+  </data>
 </odoo> 
